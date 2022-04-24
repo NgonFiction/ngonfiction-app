@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ngonfiction-app/static/css/main.073c9b0a.css",
+    "main.js": "/ngonfiction-app/static/js/main.c91bb7c8.js",
+    "static/js/787.805c7af5.chunk.js": "/ngonfiction-app/static/js/787.805c7af5.chunk.js",
+    "static/media/logo.svg": "/ngonfiction-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ngonfiction-app/index.html",
+    "main.073c9b0a.css.map": "/ngonfiction-app/static/css/main.073c9b0a.css.map",
+    "main.c91bb7c8.js.map": "/ngonfiction-app/static/js/main.c91bb7c8.js.map",
+    "787.805c7af5.chunk.js.map": "/ngonfiction-app/static/js/787.805c7af5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c91bb7c8.js"
+  ]
+}
